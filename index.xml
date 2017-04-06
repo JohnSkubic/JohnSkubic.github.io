@@ -24,7 +24,16 @@
       <pubDate>Tue, 04 Apr 2017 18:07:48 -0700</pubDate>
       
       <guid>https://johnskubic.github.io/publications/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;a href=&#34;docs/RISCV_Business_A_Configurable_Extensible_Core.pdf&#34;&gt;RISCV-Business: A Configurable, Extensible RISC-V Core&lt;/a&gt; &lt;/br&gt;
+John Skubic, Jacob R. Stevens, Chuan Yean Tan, Dr.Mark Johnson, and Dr. Matthew Swabey &lt;/br&gt;
+Paper presented at RISC-V International Conference, Chennai. (2017, April). &lt;/br&gt;
+&lt;a href=&#34;http://rise.cse.iitm.ac.in/ric2017/index.html#Proceedings&#34;&gt;Proceedings&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;docs/MicroBrew.pdf&#34;&gt;Purdue MicroBrewer: A Microcontroller Generator&lt;/a&gt; &lt;/br&gt;
+Jacob R. Stevens, John Skubic, Eric Colter, Dr. Matthew Swabey, and Dr. Mark Johnson &lt;/br&gt;
+Paper presented at RISC-V International Conference, Chennai. (2017, April). &lt;/br&gt;
+&lt;a href=&#34;http://rise.cse.iitm.ac.in/ric2017/index.html#Proceedings&#34;&gt;Proceedings&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -43,7 +52,7 @@
       <pubDate>Tue, 04 Apr 2017 13:18:26 -0700</pubDate>
       
       <guid>https://johnskubic.github.io/contact/</guid>
-      <description>&lt;p&gt;TODO: Contact&lt;/p&gt;
+      <description>&lt;p&gt;Feel free to contact me via email regarding any of my active projects or if you would like to touch base on working on a new or existing project together.&lt;/p&gt;
 </description>
     </item>
     
@@ -53,7 +62,11 @@
       <pubDate>Tue, 04 Apr 2017 13:18:19 -0700</pubDate>
       
       <guid>https://johnskubic.github.io/about/</guid>
-      <description>&lt;p&gt;TODO: About&lt;/p&gt;
+      <description>&lt;p&gt;I was born and raised in Minnesota, USA.  I&amp;rsquo;m a homegrown midwesterner and am an avid Minnesota sports fan (for better or for worse).  Outside of projects and work, my hobbies include golfing, listening to music, brewing beer, and hanging out with interesting people.&lt;/p&gt;
+
+&lt;p&gt;I graduated from Purdue University with a Bachelors degree in Computer Engineering and I expect to receive my masters degree from Purdue University in Electrical and Computer Engineering this May with a focus in Computer Architecture.&lt;/p&gt;
+
+&lt;p&gt;Post graduation, I will be employed as a digital hardware engineer for Qualcomm, working on their image signal processor.&lt;/p&gt;
 </description>
     </item>
     
